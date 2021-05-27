@@ -1,6 +1,3 @@
-CREATE DATABASE lightbnb;
-\c lightbnb
-Create the tables.
 
 DROP TABLE IF EXISTS users CASCADE;
 DROP TABLE IF EXISTS properties CASCADE;
